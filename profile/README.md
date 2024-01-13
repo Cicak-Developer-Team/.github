@@ -7,4 +7,4 @@ Team kecil yang berisikan 2 orang, dengan 2 orang remaja dengan keinginan dan tu
 ### 💻 Projects
 - [Naureen Publisher](https://publish.naureendigition.com/)
 - [Sistem Manajemen Karyawan Naureen](https://sdm.naureendigition.com/)
-- [IMWI E-Service](pelayanan.imwi.ac.id)
+- [IMWI E-Service](https://pelayanan.imwi.ac.id)
