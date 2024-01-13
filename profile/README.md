@@ -4,7 +4,11 @@ Dalam dunia teknologi yang terus bergerak maju, kami adalah tim kecil yang penuh
 
 *(＠＾０＾)
 
-### 💻 Projects
+### 🏬 Perusahaan yang kami tangani
+- [PT NAUREEN DIGITAL EDUCATION](https://www.naureendigition.com)
+- [INSTITUT MANAJEMEN WIYATA INDONESIA](https://www.imwi.ac.id/)
+
+### 💻 Proyek
 - [Naureen Publisher](https://publish.naureendigition.com/)
 - [Sistem Manajemen Karyawan Naureen](https://sdm.naureendigition.com/)
 - [IMWI E-Service](https://pelayanan.imwi.ac.id)
