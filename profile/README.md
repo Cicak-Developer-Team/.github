@@ -1,5 +1,5 @@
 ## 🇮🇩 CD TEAM
-Team kecil yang berisikan 2 orang, dengan 2 orang remaja dengan keinginan dan tujuan yang sangat besar.
+Dalam dunia teknologi yang terus bergerak maju, kami adalah tim kecil yang penuh semangat. Dengan hanya dua programmer remaja, kami memiliki keinginan besar untuk menciptakan inovasi luar biasa. Kami bertekad membangun masa depan yang canggih dengan kode-kode kami. Bersama-sama, kami menjelajahi labirin algoritma dan mewujudkan impian kami dalam baris-baris kodifikasi.
 *ModalSulitSkillElit
 
 *(＠＾０＾)
